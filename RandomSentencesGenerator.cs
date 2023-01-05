@@ -6,7 +6,7 @@
     {
         static void Main(string[] args)
         {
-            //Initialising the arrays of words
+            //Initialize the arrays of words
             string[] names = { "Peter", "Michell", "Jane", "Steve" };
             string[] places = { "Sofia", "Plovdiv", "Varna", "Burgas" };
             string[] verbs = { "eats", "holds", "sees", "plays with", "brings" };
